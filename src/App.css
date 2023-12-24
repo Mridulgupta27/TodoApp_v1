@@ -1,0 +1,16 @@
+
+.mrow{
+  margin: 25px 0px;
+}
+
+.bnt{
+  min-width: 80px;
+}
+
+.deleteIcon{
+    font-size: 25px;
+  font-weight: 700;
+}
+/* .todo-container{
+  background-image: url(https://i.stack.imgur.com/RLQNm.jpg);
+} */

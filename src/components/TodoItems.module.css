@@ -1,0 +1,9 @@
+.itemsContainer{
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  color: #ffffff;
+  width: 70%;
+  min-width: 150px;
+}
